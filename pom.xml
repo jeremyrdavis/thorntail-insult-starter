@@ -125,7 +125,7 @@
       <groupId>org.jboss.resteasy</groupId>
       <artifactId>resteasy-client</artifactId>
       <version>${version.resteasy}</version>
-      <scope>test</scope>
+      <scope>provided</scope>
     </dependency>
     <dependency>
         <groupId>com.github.tomakehurst</groupId>
