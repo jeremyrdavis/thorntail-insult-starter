@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.redhat.summit2019</groupId>
   <artifactId>thorntail-insult-starter</artifactId>
-  <version>1.0.0</version>
+  <version>v1</version>
   <packaging>war</packaging>
   <name>Thorntail - Exmple</name>
   <licenses>
